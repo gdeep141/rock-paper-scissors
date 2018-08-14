@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+    padding: 10px 15px;
+    margin: 0px 15px;
+    border: none;
+    border-radius: 2px;
+    background: black;
+    color: white;
+}
+
+.btn-container {
+    padding-top: 10px;
+}
+
+.container {
+    margin: 0px auto;
+    width: 50%;
+    text-align: center;
+}
+
+.result {
+    margin-top: 14px;
+    line-height: 2;
+    text-align: left;
+    display: inline-block;
+    width: 300px;
+}

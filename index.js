@@ -71,7 +71,7 @@ buttons.forEach((button) => {
 
 let playerScore = 0;
 let computerScore = 0;
-let div = document.querySelector('div');
+let div = document.querySelector('div.result');
 
 function playGame(clicked) {
     if (playerScore < 5 && computerScore < 5) {
